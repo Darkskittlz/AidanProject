@@ -1,0 +1,9 @@
+
+node_modules/
+./content/logs/
+output.css
+components/
+node_modules
+./content/data/
+.ghostpid
+
